@@ -14,7 +14,7 @@ Analysis on popular programming languages since 2008, taking data from StackOver
   group by dateadd(month, datediff(month, 0, q.CreationDate), 0), TagName
   order by dateadd(month, datediff(month, 0, q.CreationDate), 0)
   ```
-  - Deciding the popularity based
+  - Deciding the popularity based on number of tags for each languages every year
 
 **2. Read and clean data**
   - Read data from csv
