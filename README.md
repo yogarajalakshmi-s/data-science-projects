@@ -15,3 +15,7 @@ This branch has projects based on data analysis using **Jupyter Notebook, Pandas
 
 **Branch - 2: LEGO data analysis** - https://github.com/yoga-0731/data-science-projects/tree/lego-data-analysis
   - Analysis on LEGO product supplies since 1940s.
+
+**Branch - 3: Google Trends Data** - 
+  - Google Trends gives us access to the popularity of Google Search terms. Deals with analysis on data taken from https://trends.google.com/trends/.
+  - How the search terms affect the popularity of the products.
