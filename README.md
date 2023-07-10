@@ -19,3 +19,7 @@ This branch has projects based on data analysis using **Jupyter Notebook, Pandas
 **Branch - 3: Google Trends Data** - https://github.com/yoga-0731/data-science-projects/tree/google-trends-data
   - Google Trends gives us access to the popularity of Google Search terms. Deals with analysis on data taken from https://trends.google.com/trends/.
   - How the search terms affect the popularity of the products.
+
+**Branch - 4: Google Play store app data analysis** - https://github.com/yoga-0731/data-science-projects/tree/google_play_store_data_analysis
+  - Comparing thousands of apps from Play store and performing Android App Store data analysis on app installations, category, paid vs free apps, and more by creating clear charts with Plotly.
+  - Taken play store data from Kaggle (https://www.kaggle.com/datasets/lava18/google-play-store-apps) and performed the analysis.
