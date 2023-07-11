@@ -23,3 +23,6 @@ This branch has projects based on data analysis using **Jupyter Notebook, Pandas
 **Branch - 4: Google Play store app data analysis** - https://github.com/yoga-0731/data-science-projects/tree/google_play_store_data_analysis
   - Comparing thousands of apps from Play store and performing Android App Store data analysis on app installations, category, paid vs free apps, and more by creating clear charts with Plotly.
   - Taken play store data from Kaggle (https://www.kaggle.com/datasets/lava18/google-play-store-apps) and performed the analysis.
+
+**Branch -5: NumPy exercises** - https://github.com/yoga-0731/data-science-projects/tree/numpy-exercises
+  - NumPy array creation, accessing elements, algebra operations, image manipulation
