@@ -29,3 +29,6 @@ This branch has projects based on data analysis using **Jupyter Notebook, Pandas
 
 **Branch - 6: Movie Revenue Analysis** - https://github.com/yoga-0731/data-science-projects/tree/movie-budget-revenue-analysis
   - This project focuses on movie analysis using matplotlib, seaborn, scikit learn.
+
+**Branch - 7: Nobel Prize winners analysis** - https://github.com/yoga-0731/data-science-projects/tree/nobel-prize-analysis
+  - This project deals with analysis on Nobel prize data. Anlysis done using Pandas, Matplotlib, Mumpy, Plotly
