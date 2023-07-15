@@ -16,6 +16,6 @@
   - Evaluate that regression-based on the sign of its coefficients.
   - Analyse and look for patterns in a model's residuals.
   - Improve a regression model using (a log) data transformation.
-  - Specify your own values for various features and use your model to make a prediction.
+  - Specify our own values for various features and use our model to make a prediction.
 
 **Reference** - https://deepblue.lib.umich.edu/bitstream/handle/2027.42/22636/0000186.pdf
