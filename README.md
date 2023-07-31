@@ -1,6 +1,6 @@
 # Popular Languages
 
-Analysis on popular programming languages since 2008, taking data from StackOverflow and deciding popularity based on number of tags.
+Analysis on popular programming languages since 2008, taking data from StackOverflow and deciding popularity based on number of times the languages were used as tags in a StackOverflow question.
 
 **1. Data from StackOverflow**
   - Taken data from StackOverflow (https://data.stackexchange.com/stackoverflow/query/675441/popular-programming-languages-per-over-time-eversql-com) by executing this SQL query.
