@@ -1,4 +1,4 @@
-# data-science-projects
+# Data Science projects - Data analysis and visualization
 
 This branch has projects based on data analysis using **Jupyter Notebook, Pandas, matplotlib**  
 
