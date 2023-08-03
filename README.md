@@ -1,6 +1,6 @@
 # Data Science projects - Data analysis and visualization
 
-This branch has projects based on data analysis using **Jupyter Notebook, Pandas, matplotlib**  
+This branch has projects based on data analysis using **Jupyter Notebook, Pandas, matplotlib, Numpy, Scikit learn, Plotly**  
 
 **Branch - 1: master branch - Data analysis on college majors vs salary**  
   This project deals with the report on college degress and their respective salaries. Got the data from Payscale (https://www.payscale.com/college-salary-report) and export it as csv. This project analyses on:  
