@@ -9,6 +9,6 @@ This project deals with analysis on Nobel prize data. Anlysis done using pandas,
   - Organization and city of prize winners
 
 **Learnings**
-  - Creating Chotopleth to display data on a map
+  - Creating Choropleth to display data on a map
   - Creating Sunburst charts with plotly
   - Creating Histogram in seaborn
